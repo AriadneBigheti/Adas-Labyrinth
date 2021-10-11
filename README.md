@@ -1,1 +1,1 @@
-# Ada-s-Labyrinth
+# Adas-Labyrinth
