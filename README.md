@@ -9,7 +9,7 @@ Credits:
 
 The Font used in all Scenes:
 
-Avenixel: Copyright (c) 2020, Gabriel Sammartino (https://www.behance.net/webcreativity | contact@gabrielsammartino.com), with Reserved Font Name Avenixel.
+- Avenixel: Copyright (c) 2020, Gabriel Sammartino (https://www.behance.net/webcreativity | contact@gabrielsammartino.com), with Reserved Font Name Avenixel.
 
 Websites that were often used when I was developing this playground:
 
