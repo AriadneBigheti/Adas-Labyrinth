@@ -13,9 +13,9 @@ Avenixel: Copyright (c) 2020, Gabriel Sammartino (https://www.behance.net/webcre
 
 Websites that were often used when I was developing this playground:
 
-PiskelApp, were I made all the Pixel Arts
-Figma, were I prototiped and designed this project
-StackOverflow, for coding issues
+- PiskelApp, were I made all the Pixel Arts
+- Figma, were I prototiped and designed this project
+- StackOverflow, for coding issues
 
 Everything else in this project was designed, coded and ilustrated by me, Ariadne Bigheti :)
 
